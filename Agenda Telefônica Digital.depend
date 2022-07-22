@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658465411 source:c:\users\tiagu\documents\linguagem c\agenda telefônica digital\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
